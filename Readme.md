@@ -3351,7 +3351,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](maxDayTempLat.png)
 
 
 ### Temperature plotted against latitiude and longitude
@@ -3507,7 +3507,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](globalTemp.png)
 
 
 ### Humidity versus Latitude
@@ -3529,7 +3529,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](humidityLatitude.png)
 
 
 ### Humidity plotted against latitude and longitude
@@ -3587,7 +3587,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](globalHumidity.png)
 
 
 ### Cloudiness versus Latitude
@@ -3609,7 +3609,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](cloudsLatitude.png)
 
 
 ### Cloudiness plotted against latitude and longitude
@@ -3665,7 +3665,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](globalCloudiness.png)
 
 
 ### Wind Speed versus Latitude
@@ -3687,7 +3687,7 @@ plt.show()
 ```
 
 
-![png](output_29_0.png)
+![png](windLatitude.png)
 
 
 ### Wind speed plotted against latitude and longitude
@@ -3740,7 +3740,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](globalWindSpeed.png)
 
 
 
